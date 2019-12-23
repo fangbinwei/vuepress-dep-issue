@@ -1,0 +1,16 @@
+{
+  "name": "vuepress-dep-issue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "dependencies": {
+    "vuepress": "^1.2.0"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "3.6.0"
+  }
+}
